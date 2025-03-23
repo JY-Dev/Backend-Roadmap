@@ -1,243 +1,59 @@
-# 백엔드 로드맵
-
-## 개요
-
-어떤 방향으로 공부해야할지 모르는 백엔드 취준생들을 위해 도움을 주고자 백엔드 로드맵을 작성하게 되었습니다. 제가 개발자로 커리어를 쌓고 공부하면서 얻은 경험과 생각을 바탕으로 로드맵을 작성했기 때문에 성향에 따라 안맞거나 이게 정답이 아닐 수 있기 때문에 해당 로드맵을 선택해서 공부하는 것은 본인 선택에 따라야합니다.
-
-## 가이드
-
-일단 여러개의 Step을 통해 나열할 건데 Step은 순서를 의미하고 최대한 순서에 따라 하는것을 권장합니다. 하지만 내가 해당 내용에 대해 알고있거나 하면 건너뛰어도 됩니다.
-
-# 로드맵
-
-## Step 1.
-
-프로그래밍 언어에 대해 잘 알지못하거나 아예 못하는 분들을 위한 단계입니다. 해당 단계에서는 프로그래밍을 어떻게 할 수 있는지 이해하는게 가장 중요하기 때문에 기본적인 문법들에 대해 이해하고 타이핑이 익숙해질 수 있도록 책이나 강의만 보기보단 직접 코드를 작성하는 것에 익숙해진 다음 해당 단계를 넘어가시는것을 추천합니다.
-
-### 학습 내용
-
-- Python(권장)
-    - 프로그래밍이 처음이시라면 개인적으로 비교적 쉬운 Python으로 시작하는 것을 권장합니다.
-- Java(권장)
-    - Python을 하고 공부해보면 더 좋습니다.
-- Kotlin(힙함)
-    - 내가 좀 더 힙해지고 싶다면 공부하는 것을 추천합니다.
-
-### 학습 방법
-
-[점프 투 파이썬](https://www.yes24.com/Product/Goods/119293186)
-
-[나도코딩 파이썬 강의](https://www.youtube.com/watch?v=kWiCuklohdY)
-
-[이것이 자바다](https://www.yes24.com/Product/Goods/125677017)
-
-[Kotlin In Action](https://www.yes24.com/Product/Goods/55148593)
-
-## Step 2.
-
-이전 단계를 잘 완수 하셨다면 이제 나도 어느정도 코딩을 할 수 있다 할 수 있는데요 이제는 코딩을 좀 더 잘하기 위한 방법들을 학습해야합니다. 
-
-해당 단계에서 추천하는건 자료구조, 알고리즘인데 먼저 자료구조에 대해 학습하고 알고리즘을 공부하는 것이 좋습니다. 여기서는 다양한 자료구조에 대해 학습하고 직접 구현해보면서 어떻게 자료구조를 만들 수 있는지 이해하고 기본적인 알고리즘을 풀어보면서 구현능력을 높이기 위한 단계입니다.
-
-### 학습 내용
-
-- 기본적인 자료구조
-    - List
-    - Array
-    - HashTable
-    - LinkedList
-    - Queue, Stack
-    - Tree
-    - Heap
-- 알고리즘 기초
-
-### 학습 방법
-
-[KOCW 자료구조 강의](http://kocw.net/home/search/kemView.do?kemId=1129239&ar=relateCourse)
-
-[파이썬 자료구조(Array, LinkedList, Stack, Queue, HashTable, Tree, Heap)](https://wikidocs.net/book/9059)
-
-[백준 단계별 문제풀기](https://www.acmicpc.net/step)
-
-- 막히는 곳 까지 최대한 풀어보기
-
-[프로그래머스 기초알고리즘](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)
-
-- 막히는 곳 까지 최대한 풀어보기
-
-## Step 3.
-
-이제는 어느정도 기초를 쌓았기 때문에 알고리즘을 더 집중적으로 풀어보면서 문제해결능력을 키우고 내가 작성한 코드의 성능을 높이기 위해 시간복잡도와 공간복잡도 그리고 다양한 알고리즘에 대해 학습합니다.
-
-알고리즘에 대해 익숙해지기 위해 한 알고리즘을 공부하고 해당 알고리즘과 관련된 문제를 여러번 풀어서 하는 것을 권장합니다. 처음에는 익숙하지 않아 많이 어렵고 힘들겁니다. 하지만 익숙하지 않기 때문에 어려운 것이고 꾸준히하면 금방 극복할 수 있을거에요. 
-
-최대한 직접 생각해서 내가 알고있는 알고리즘으로 풀 수 있는지 고민해보고 아무리해도 모르겠다고 하면 답이 적힌 코드를 보기보단 답에 대한 아이디어만 이해하고 가져와서 직접 구현해보는 것을 추천합니다.
-
-### 학습 내용
-
-- (시간/공간)복잡도
-- 알고리즘
-
-### 학습 방법
-
-- [시간 복잡도](https://www.youtube.com/watch?v=tTFoClBZutw)
-- [바킹독 알고리즘 강의](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
-- [프로그래머스 0~2레벨까지 풀어보기](https://school.programmers.co.kr/learn/challenges?order=recent)
-- [Solved AC Class 1~3까지 풀어보기](https://solved.ac/class?class=3)
-
-## Step 4.
-
-이제 자료구조랑 알고리즘을 하면서 문제해결능력이나 구현능력에 대해 많이 키웠을거라고 생각합니다. 이제는 코드를 남들이 잘 읽을 수 있고 유지보수를 위한 코드로 발전시키기 위해 객체지향에 대해 이해하고 코드에 적용할 수 있도록 학습하고 테스트코드를 작성하면서 남들이 잘 이해할 수 있는 코드 또는 유지보수에 용이한 코드를 작성할 수 있게 합니다.
-
-개인적으로 직접 코드를 설계하면서 많이 해보면서 다른 사람은 어떻게 작성 했는지도 확인합니다.
-
-### 학습 내용
-
-- 객체지향
-- 코드 설계 및 구현
-- 테스트 코드 작성
-
-### 학습 방법
-
-- [객체지향의 사실과 오해](https://www.yes24.com/Product/Goods/18249021)(선택)
-- [오브젝트](https://www.yes24.com/Product/Goods/74219491)(권장)
-- [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://www.yes24.com/Product/Goods/17350624)(권장)
-- [자바와 JUnit을 활용한 실용주의 단위 테스트](https://www.yes24.com/Product/Goods/75189146)(선택)
-- git 형상관리(권장)
-    - [생활코딩](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
-    - [제로초](https://www.youtube.com/watch?v=cEg9hiZax8U&list=PLcqDmjxt30RvjqpIBi4mtkK5LkzYtXluF)
-- 우테코 프리코스(먼저 일단 혼자 작성해보고 Pull Request에 올라온 다른사람 코드도 한번 봐보기) - 권장
-    - [숫자야구](https://github.com/woowacourse/java-baseball-precourse)
-    - [자동차 경주 게임](https://github.com/woowacourse/java-racingcar-precourse)
-    - [자판기](https://github.com/woowacourse/java-vendingmachine-precourse)
-
-## Step 5.
-
-Step 4를 진행하면서 어느정도 객체지향에 대한 이해가 생기셨을것이라 생각이 듭니다. 이제 코딩적인 부분은 손을 잠시 놓고 앞으로 중요하게될 CS에 초점을 맞추려고합니다. 가장 중요한건 네트워크와 OS인데 컴퓨터 구조같은 경우는 초반에 너무 깊게하지 않고 윤곽만 잡으면 좋습니다. 제가 추천하는 순서는 컴구 개요 → OS → Network 이순서입니다.
-
-### 학습 내용
-
-- 컴퓨터 구조에 대한 개요
-- OS 기본적인 지식
-- Network OSI 7계층에 대한 개요
-- TCP/IP
-- HTTP
-- 기초 리눅스
-
-### 학습 방법
-
-- [혼공 컴구 운체](https://www.yes24.com/Product/Goods/111378840)
-- [컴퓨터 밑바닥의 비밀](https://www.yes24.com/Product/Goods/125299750)
-- [OSTEP(운영체제)](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean)
-- [KOCW 운영체제 강의](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
-- [쉬운 코드 운영체제](https://www.youtube.com/watch?v=QmtYKZC0lMU&list=PLcXyemr8ZeoQOtSUjwaer0VMJSMfa-9G-)
-- [널널한 개발자 네트워크 강의](https://www.youtube.com/watch?v=k1gyh9BlOT8&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy)
-- [널널한 개발자 네트워크 응용 강의](https://www.youtube.com/watch?v=7BvzxbG4y3Y&list=PLXvgR_grOs1BkUIxKsLEUdefyMWMA0_U-)
-- [KOCW 네트워크 강의](http://www.kocw.net/home/cview.do?mty=p&kemId=1169634)
-- [TCP/IP](https://www.youtube.com/watch?v=0OztKsGTqos&list=LL&index=23)
-- [Hussein 네트워크 강의](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design-korean/?couponCode=24T3MT120924)
-- [쉬운코드 네트워크 강의](https://www.youtube.com/watch?v=oFKYzp6gGfc&list=PLcXyemr8ZeoSGlzhlw4gmpNGicIL4kMcX)
-- [성공과 실패를 결정하는 1%의 네트워크 원리](https://www.yes24.com/Product/Goods/90640081)
-- [컴퓨터 네트워킹 하향식 접근](https://www.yes24.com/Product/Goods/112228953)
-- [HTTP 완벽 가이드](https://www.yes24.com/Product/Goods/15381085)
-- [리눅스 입문자를 위한 명령어 사전](https://www.yes24.com/Product/Goods/102467714)
-- [디버깅을 통해 배우는 리눅스 커널의 구조와 원리](https://www.yes24.com/Product/Goods/90085976)
-
-## Step 6.
-
-Step 5를 잘 마무리 하셨다면 CS에 대해서도 어느정도는 알 수 있다고 할 수 있습니다. 이를 바탕으로 이제는 Spring Framework에 익숙해지기 위한 학습을 하도록 하겠습니다.
-
-### 학습 내용
-
-- Spring Framework
-- DB 기술 없이 간단한 게시판 만들어보기 (tymeleaf + html + bootstrap 이용해서)
-    - 회원가입 (비밀번호 단방향 암호화 적용해보기)
-        - 아이디 비밀번호 방식
-    - 로그인 (Spring Security 사용 x)
-        - 세션 방식으로 구현
-    - 게시글 작성
-    - 게시글 검색
-    - 게시글 목록 조회
-    - 게시글 상세 조회
-
-### 학습 방법
-
-- 인프런 김영한
-    - [스프링 입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
-    - [스프링 핵심 원리 - 기본](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
-    - [스프링 Web MVC - 1](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
-    - [스프링 Web MVC - 2](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2)
-    - [스프링 핵심 원리 - 고급](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8#curriculum)
-- [Bootstrap](https://getbootstrap.com/)
-- [Tymeleaf](https://www.thymeleaf.org/)
-- [Spring 샘플 프로젝트](https://github.com/spring-projects/spring-petclinic)
-- [Spring 게시판 샘플 프로젝트](https://github.com/JY-Dev/notice-board)
-- [Spring Validation](https://www.baeldung.com/spring-boot-bean-validation)
-
-## Step 7.
-
-Step 6를 진행하면서 Spring Framework에 많이 익숙해졌을텐데 메모리에만 데이터를 저장하게 되면 서버가 다운되면 모든 데이터를 잃게됩니다. 그래서 데이터를 디스크에 저장하기 위한 기술로 데이터베이스가 존재하는데 데이터베이스에 대해 공부하고 데이터를 효율적으로 디스크에 저장하고 읽을 수 있도록 학습합니다.
-
-기존에 메모리로 만들었던 게시판을 DB 기술을 이용한 방식으로 마이그레이션합니다. 추상화를 잘 하셨다면 크게 어려움 없이 저장소를 바꿀 수 있을거에요.
-
-### 학습 내용
-
-- RDBMS
-- ERD 설계
-- JPA Hibernate(선택)
-    - QueryDSL(추천)
-- FLYWAY (선택)
-- 메모리로 만들었던 게시판 마이그레이션
-    - Spring Data JDBC를 이용해서 개발 (권장) - 본인이 원하는 것으로 선택
-        - JPA를 쓰고싶다면 Spring Data JPA 활용
-        - MyBatis를 쓴다면 MyBatis 활용
-    - DB는 MySQL을 사용해서 개발합니다.
-    - 게시글 목록 조회 페이지네이션 추가
-        - Cusorbased pagination vs Offset pagination
-    - 게시글 검색 기능 성능 향상을 위한 리팩토링
-        - MySQL 전문검색 Index 활용해보도록
-    - 좋아요 조회수 기능 추가
-    - 댓글 기능 추가
-        - 대댓글 기능 추가(추천)
-    - ERD 설계
-
-### 학습 방법
-
-- [쉬운코드 데이터베이스](https://www.youtube.com/watch?v=aL0XXc1yGPs&list=PLcXyemr8ZeoREWGhhZi5FZs6cvymjIBVe)
-- [러닝 SQL](https://product.kyobobook.co.kr/detail/S000001810371)
+/S000001810371)
 - [생활코딩 관계형 데이터 모델링 강의](https://www.youtube.com/watch?v=1d38YZKCM88&list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 - [ERD CLOUD](https://www.erdcloud.com/)
 - [REAL MYSQL](https://product.kyobobook.co.kr/detail/S000001766482)
 - [데이터베이스 유튜브 강의](https://www.youtube.com/watch?v=vdPALZ-GCfI&list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
 - [Hussein 데이터베이스 강의](https://www.udemy.com/course/database-engines-crash-course/)
 - [FLYWAY](https://www.red-gate.com/products/flyway/community/) (선택)
-    - 스키마 형상 관리
+  - 스키마 형상 관리
 - JPA (선택)
-    - [책](https://www.yes24.com/Product/Goods/19040233)
-    - [Spring Data JPA](https://docs.spring.io/spring-data/jpa/reference/jpa.html)(JPA에 대해 제대로 이해하고 진행 일단 Spring Data JPA를 쓰지않고 하는 방식으로 먼저 진행)
+  - [자바 ORM 표준 JPA 프로그래밍](https://www.yes24.com/Product/Goods/19040233)
+  - [Spring Data JPA 공식 문서](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
+  - [JPA 퀵스타트](https://www.yes24.com/Product/Goods/96246246)
 - [Spring Data JDBC 공식문서](https://docs.spring.io/spring-data/relational/reference/jdbc.html)
 - [Spring Data JDBC 관련 글](https://www.baeldung.com/spring-data-jdbc-intro)
-    - [MySQL 전문 검색 Index 강의](https://www.youtube.com/watch?v=NGzrKnnCQUw)
+- [MySQL 전문 검색 Index 강의](https://www.youtube.com/watch?v=NGzrKnnCQUw)
+- [인프런 김영한 - 스프링 데이터 JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa-%EC%8B%A4%EC%A0%84)
+- [인프런 김영한 - 자바 ORM 표준 JPA 프로그래밍](https://www.inflearn.com/course/ORM-JPA-Basic)
 
-## Step 8.
+## Step 8. 배포 및 인프라
 
-Step 7 에서 프로젝트를 이제 완성 했으니 배포를 해야하는데 배포하는 과정도 애플리케이션 개발자가 알아야하는 영역이라고 생각합니다. 개인적으로는 많이 사용하는 Github Action과 AWS 기반으로 해서 배포를 하는 방식에 대해 공부합니다.
+Step 7에서 프로젝트를 이제 완성 했으니 배포를 해야하는데 배포하는 과정도 애플리케이션 개발자가 알아야하는 영역이라고 생각합니다. 개인적으로는 많이 사용하는 Github Action과 AWS 기반으로 해서 배포를 하는 방식에 대해 공부합니다.
 
 ### 학습 내용
 
-- CI/CD
-- 쉘 스크립트
-- GIthub Action
-- Load Balancer
-- AWS
-    - S3
-    - EC2
-    - RDS
-    - VPC
-    - IAM
-    - ALB
-    - ECS(선택)
-        - Container 학습
+- CI/CD 파이프라인
+  - 지속적 통합(CI)의 개념과 이점
+  - 지속적 배포(CD)의 자동화
+  - GitHub Actions를 활용한 워크플로우
+- 서버 환경 구성
+  - Linux 시스템 관리
+  - Shell 스크립팅
+  - Nginx 웹 서버 설정
+- 컨테이너화와 도커
+  - Docker 기본 개념
+  - Dockerfile 작성법
+  - Docker Compose
+  - 컨테이너 네트워크
+- AWS 클라우드 서비스
+  - EC2 (가상 서버)
+  - S3 (파일 스토리지)
+  - RDS (관계형 데이터베이스)
+  - VPC (가상 프라이빗 클라우드)
+  - IAM (접근 권한 관리)
+  - ALB (로드 밸런싱)
+- 고가용성 인프라
+  - 리전 및 가용영역
+  - Auto Scaling
+  - 로드 밸런싱 전략
+- 모니터링 및 로깅
+  - CloudWatch
+  - 로그 집계 및 분석
+
+### 실습 프로젝트 아이디어
+- CI/CD 파이프라인 구축 (GitHub Actions + AWS)
+- 컨테이너화된 애플리케이션 배포
+- 다중 환경(개발, 테스트, 운영) 구성
 
 ### 학습 방법
 
@@ -245,6 +61,179 @@ Step 7 에서 프로젝트를 이제 완성 했으니 배포를 해야하는데 
 - [AWS 강의실 유튜브](https://www.youtube.com/@AWSClassroom)
 - [Amazon Web Service 코리아 유튜브](https://www.youtube.com/@AWSKorea)
 - [AWS Certified Developer Associate 강의](https://www.udemy.com/course/best-aws-certified-developer-associate/?couponCode=24T3MT120924)
+- [Docker & Kubernetes: 실전 가이드](https://www.udemy.com/course/docker-kubernetes-2022/)
+- [GitHub Actions 공식 문서](https://docs.github.com/ko/actions)
+- [실습으로 배우는 AWS 핵심 서비스](https://www.yes24.com/Product/Goods/112903327)
+- [Terraform: Infrastructure as Code](https://www.terraform.io/docs/index.html)
+- [Nginx 공식 문서](https://nginx.org/en/docs/)
+
+## Step 9. API 설계 및 보안
+
+현대 백엔드 개발에서는 안전하고 효율적인 API 설계가 매우 중요합니다. 이 단계에서는 RESTful API 설계 원칙, API 문서화, 그리고 애플리케이션 보안에 관한 모범 사례를 학습합니다.
+
+### 학습 내용
+
+- RESTful API 설계
+  - REST 아키텍처 원칙
+  - 리소스 모델링
+  - HTTP 메소드와 상태 코드
+  - HATEOAS 및 하이퍼미디어
+- API 문서화
+  - Swagger/OpenAPI
+  - Spring REST Docs
+- API 버전 관리 전략
+  - URI 버전 관리
+  - 헤더 기반 버전 관리
+  - 미디어 타입 버전 관리
+- 인증과 권한 부여
+  - Spring Security 기본
+  - JWT(JSON Web Token)
+  - OAuth2.0 및 OIDC
+  - 권한 기반 접근 제어(RBAC)
+- 애플리케이션 보안
+  - OWASP Top 10 보안 취약점
+  - 입력 유효성 검사
+  - SQL 인젝션 방어
+  - XSS(Cross-Site Scripting) 방어
+  - CSRF(Cross-Site Request Forgery) 방어
+  - 보안 헤더 구성
+- 데이터 보호
+  - 민감 정보 암호화
+  - 데이터 마스킹
+  - 개인정보 보호 규정(GDPR, CCPA 등)
+
+### 실습 프로젝트 아이디어
+- JWT 기반 인증이 적용된 RESTful API 개발
+- OAuth2.0 소셜 로그인 구현
+- 역할 기반 접근 제어가 있는 멀티테넌트 시스템
+
+### 학습 방법
+
+- [Spring Security 인 액션](https://www.yes24.com/Product/Goods/112200347)
+- [OAuth 2.0 in Action](https://www.manning.com/books/oauth-2-in-action)
+- [RESTful Web Services Cookbook](https://www.oreilly.com/library/view/restful-web-services/9780596809140/)
+- [Spring Security 공식 문서](https://docs.spring.io/spring-security/reference/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [JWT 공식 사이트](https://jwt.io/)
+- [Spring REST Docs 공식 문서](https://docs.spring.io/spring-restdocs/docs/current/reference/html5/)
+- [Swagger/OpenAPI 문서](https://swagger.io/docs/)
+- [Spring Security JWT 튜토리얼](https://www.baeldung.com/spring-security-jwt)
+- [Spring HATEOAS 튜토리얼](https://www.baeldung.com/spring-hateoas-tutorial)
+
+## Step 10. 클라우드 네이티브 개발
+
+현대 백엔드 시스템은 점점 더 클라우드 네이티브 환경을 지향하고 있습니다. 이 단계에서는 마이크로서비스 아키텍처, 컨테이너 오케스트레이션, 서비스 메시 등 클라우드 네이티브 애플리케이션 개발에 필요한 기술과 패턴을 학습합니다.
+
+### 학습 내용
+
+- 마이크로서비스 아키텍처
+  - 모놀리식 vs 마이크로서비스
+  - 서비스 디스커버리
+  - API 게이트웨이
+  - 서비스 간 통신 패턴
+  - 분산 트랜잭션 처리
+  - 이벤트 기반 아키텍처
+- Spring Cloud
+  - Spring Cloud Gateway
+  - Spring Cloud Config
+  - Spring Cloud Netflix
+  - Spring Cloud Stream
+  - Spring Cloud Circuit Breaker
+- 컨테이너 오케스트레이션
+  - Kubernetes 기본 개념
+  - Pod, Service, Deployment
+  - ConfigMap과 Secret
+  - Helm 차트
+  - 쿠버네티스 운영 전략
+- 서비스 메시
+  - Istio 입문
+  - 트래픽 관리
+  - 보안 및 정책
+  - 관측성
+- 데이터 파이프라인
+  - Kafka 기본
+  - 이벤트 스트리밍
+  - 데이터 일관성 전략
+- 확장성과 복원력
+  - 서킷 브레이커 패턴
+  - 백프레셔 처리
+  - 재시도 및 폴백 전략
+  - 카오스 엔지니어링
+
+### 실습 프로젝트 아이디어
+- 마이크로서비스 아키텍처 기반 e-commerce 플랫폼
+- 이벤트 소싱 패턴을 적용한 주문 처리 시스템
+- Kubernetes에 배포된 다중 서비스 애플리케이션
+
+### 학습 방법
+
+- [마이크로서비스 패턴](https://www.yes24.com/Product/Goods/86542732)
+- [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action-second-edition)
+- [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition)
+- [Spring Cloud 공식 문서](https://spring.io/projects/spring-cloud)
+- [Kafka: The Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/)
+- [Istio 공식 문서](https://istio.io/latest/docs/)
+- [CNCF Trail Map](https://github.com/cncf/trailmap)
+- [쿠버네티스 공식 문서](https://kubernetes.io/docs/home/)
+- [클라우드 디자인 패턴](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [Spring Cloud Data Flow](https://dataflow.spring.io/docs/stream-developer-guides/getting-started/)
+
+## Step 11. 면접 준비
+
+백엔드 개발자 취업 과정에서 기술 면접은 큰 비중을 차지합니다. 이 단계에서는 백엔드 개발자 면접에서 자주 다뤄지는 주제와 효과적인 면접 준비 방법을 소개합니다.
+
+### 학습 내용
+
+- 기술 면접 준비
+  - CS 기초 개념 정리
+  - Java/Kotlin 핵심 질문
+  - Spring Framework 심화 질문
+  - 데이터베이스 성능 및 최적화
+  - 시스템 설계 면접 대비
+- 코딩 테스트 대비
+  - 알고리즘 문제 풀이 전략
+  - 시간 관리 기법
+  - 실전 문제 연습
+- 기술 블로그 및 포트폴리오
+  - GitHub 프로필 최적화
+  - 프로젝트 문서화
+  - 기술 블로그 운영
+- 모의 면접
+  - 자주 묻는 질문과 모범 답안
+  - 화이트보드 코딩 연습
+  - 시스템 설계 문제 풀이
+
+### 도움이 되는 리소스
+- [백엔드 개발자 면접 질문 모음](https://github.com/ksundong/backend-interview-question)
+- [기술 면접 대비 CS 전공 핵심 요약집](https://www.yes24.com/Product/Goods/107078818)
+- [카카오 기술 블로그](https://tech.kakao.com/blog/)
+- [네이버 D2 기술 블로그](https://d2.naver.com/)
+- [우아한형제들 기술 블로그](https://techblog.woowahan.com/)
+- [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+- [Pramp](https://www.pramp.com/) - 모의 면접 플랫폼
+- [LeetCode](https://leetcode.com/) - 코딩 테스트 연습
+
+### 면접 준비 전략
+1. 기술 역량 표 만들기
+   - 자신이 공부한 기술들을 리스트업
+   - 각 기술별 숙련도 표시
+   - 추가 학습이 필요한 부분 식별
+
+2. 자주 묻는 질문 목록 작성
+   - 각 기술 영역별 예상 질문 정리
+   - 간결하고 정확한 답변 준비
+   - 경험 기반의 사례 준비
+
+3. 프로젝트 설명 연습
+   - STAR 방식으로 프로젝트 설명 구성
+   - 기술적 챌린지와 해결 방법 강조
+   - 팀 협업 경험 공유
+
+4. 시스템 설계 연습
+   - 트래픽 규모 추정
+   - 데이터 모델링
+   - 아키텍처 다이어그램 그리기
+   - 확장성 고려 사항
 
 ## Advanced Step
 
@@ -252,38 +241,66 @@ Step 7 에서 프로젝트를 이제 완성 했으니 배포를 해야하는데 
 
 ### 학습하면 좋을 것들
 
-- Go, Kotlin 프로그래밍언어
-- 분산시스템
-- NoSQL
-    - MongoDB
-    - Redis
-    - Apache Cassandra
-    - scylladb
-- 시스템 설계
-- 소프트웨어 아키텍처
-- 소프트웨어 개발 방법론
-    - DDD
-    - Agile
-- 디자인패턴
-- JVM
-- 통신 프로토콜
-    - GRPC
-    - GraphQL
-    - WebSocket
-    - WebRTC
-- 인프라
-    - 클라우드
-    - Container
-    - 로그 중앙화
-    - Container orchestration
+- 프로그래밍 언어 심화
+  - Go
+  - Kotlin 코루틴과 비동기 프로그래밍
+  - Rust 기초
+- 분산 시스템
+  - CAP 이론
+  - 일관성 모델
+  - 분산 합의 알고리즘
+  - 분산 데이터베이스
+- NoSQL 데이터베이스
+  - MongoDB
+  - Redis
+  - Apache Cassandra
+  - ScyllaDB
+  - 분산 데이터 저장소 설계
+- 시스템 설계 및 아키텍처
+  - 도메인 주도 설계(DDD)
+  - 이벤트 소싱
+  - CQRS 패턴
+  - 헥사고날 아키텍처
+  - 클린 아키텍처
+- JVM 심화
+  - JVM 메모리 구조
+  - 가비지 컬렉션 알고리즘
+  - JIT 컴파일러
+  - 성능 튜닝
+- 통신 프로토콜 심화
+  - gRPC
+  - GraphQL
+  - WebSocket
+  - WebRTC
+  - 프로토콜 버퍼
+- 인프라 자동화
+  - Infrastructure as Code (IaC)
+  - Terraform
+  - Ansible
+  - 서버리스 아키텍처
+- 대규모 데이터 처리
+  - Apache Spark
+  - Hadoop 에코시스템
+  - 실시간 데이터 처리
+  - 데이터 레이크 설계
+- AI/ML 활용
+  - 머신러닝 기초
+  - OpenAI API 통합
+  - 추천 시스템 구현
+  - 이상 탐지 시스템
+- DevOps 문화와 SRE 실천법
+  - 사이트 신뢰성 엔지니어링
+  - DevOps 관행
+  - 지속적 모니터링
+  - 인시던트 대응
 
 ### 학습 방법
 
-- [데이터 중심 어플리케이션 설계](https://www.yes24.com/Product/Goods/59566585)
+- [데이터 중심 애플리케이션 설계](https://www.yes24.com/Product/Goods/59566585)
 - [Design pattern](https://refactoring.guru/design-patterns)
 - [Nosql - 마틴 파울러](https://www.yes24.com/Product/Goods/8510944)
 - [클린아키텍처 - 로버트 마틴](https://www.yes24.com/Product/Goods/77283734)
-- [만들면서 배우는 클린아키첵처 책](https://www.yes24.com/Product/Goods/105138479)
+- [만들면서 배우는 클린아키텍처](https://www.yes24.com/Product/Goods/105138479)
 - [MongoDB 완벽가이드](https://www.yes24.com/Product/Goods/97980005)
 - [소프트웨어 아키텍처 및 대규모 시스템 설계 강의](https://www.udemy.com/course/software-architecture-design-large-scale-systems/?couponCode=24T3MT120924)
 - [소프트웨어 아키텍처 및 시스템 설계 실제 사례 연구 강의](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies-korean/?couponCode=24T3MT120924)
@@ -298,3 +315,16 @@ Step 7 에서 프로젝트를 이제 완성 했으니 배포를 해야하는데 
 - [Spanning Tree 유튜브](https://www.youtube.com/@SpanningTree)
 - [Networking Class 유튜브](https://www.youtube.com/@NetworkingClass)
 - [Hussein Nasser 유튜브](https://www.youtube.com/@hnasr)
+- [Site Reliability Engineering 책](https://sre.google/sre-book/table-of-contents/)
+- [도메인 주도 설계 - 에릭 에반스](https://www.yes24.com/Product/Goods/5312881)
+- [구현 패턴 - 켄트 벡](https://www.yes24.com/Product/Goods/2824034)
+- [Effective Java](https://www.yes24.com/Product/Goods/65551284)
+- [Deep Learning Systems - MIT Press](https://www.amazon.com/Deep-Learning-Systems-Algorithms-Applications/dp/0262048825)
+
+## 결론
+
+이 로드맵은 백엔드 개발자로 성장하는 여정에서 도움이 될 수 있는 가이드라인을 제공합니다. 하지만 기술 분야는 계속해서 빠르게 변화하고 있으므로, 지속적인 학습과 적응이 필요합니다. 가장 중요한 점은 단순히 기술을 익히는 것이 아니라, 문제 해결 능력을 기르고 좋은 소프트웨어 공학 원칙을 적용하는 것입니다.
+
+개인의 관심사와 업계 트렌드에 따라 학습 경로를 조정하고, 실무 경험을 쌓을 수 있는 기회를 찾아보세요. 열정을 가지고 꾸준히 학습한다면, 백엔드 개발자로서의 커리어에서 성공할 수 있을 것입니다.
+
+좋은 여정이 되길 바랍니다!
